@@ -1,2 +1,2 @@
 # java
-Java Application are living here
+Java Applications are living here
